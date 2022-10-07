@@ -1,6 +1,3 @@
-// import axios from "axios";
-// import { useEffect, useState } from "react";
-// import { Button, Spinner, Table } from "react-bootstrap";
 import { Table } from "react-bootstrap";
 import { useLoaderData } from "react-router-dom";
 
